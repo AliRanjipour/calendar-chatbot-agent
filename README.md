@@ -1,6 +1,6 @@
 # Calendar Chatbot Agent (WIP)
 
-A simple AI assistant that helps schedule and manage meetings via natural language.
+A simple AI assistant that helps schedule and manage meetings.
 
 ## Goal
 Build a GPT-based chatbot that connects to Google Calendar and responds to commands like:
